@@ -1,2 +1,5 @@
-# Admin-Dashboard---CRUD-Operation
-Codeignitor framework
+inport new_admin.sql to database.
+
+Login
+username = admin@gmail.com
+password = 123
